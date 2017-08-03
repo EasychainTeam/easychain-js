@@ -1,0 +1,1 @@
+window.easychainJS = easychainJS = require('./index.js');
